@@ -21,31 +21,35 @@ A tool for monitoring ERC20 token balances and transactions on the Ethereum netw
 
 ## My Passion
 
-### **I Love Creating**
-Since childhood, I’ve enjoyed DIY projects, which led me to pursue a degree in Electronic Information Engineering. My goal is to create things that make life more convenient. I take on multiple roles—**supply chain procurement, industrial design, software & hardware engineering, product management**—and I learn quickly to bring ideas to life. 💡
+### 💡 **I Love Creating**
+Since childhood, I’ve enjoyed DIY projects and pursued a degree in Electronic Information Engineering. My drive is to make life more convenient through innovation. I take on multiple roles in projects—**supply chain procurement, industrial design, software & hardware engineering, product management**—and I’m quick to learn whatever is needed to bring ideas to life. ⚙️✨
 
-### **I Love Studying How Things Work & Enjoy Pranks**
-Hacking is a mindset for me. I'm always curious about how things work, finding vulnerabilities, and figuring out if I can execute harmless pranks. 🤓🔍 It’s my playful way of understanding systems and testing their limits.
+### 🕵️‍♂️ **Curiosity and Pranks**
+Hacking is a mindset. I constantly wonder: *How does this work? Are there vulnerabilities? Can I harmlessly exploit them for fun?* Pranks are my playful way of exploring and testing systems. 🛠️😄
 
-### **I Love Reading**
-In my spare time, I explore diverse subjects like philosophy, history, biology, physics, cognitive neuroscience, investment, psychology, AI, and computer science. 📚 Each field provides a unique lens to understand the world, helping me tackle problems from multiple perspectives.
+### 📚 **Lifelong Learning**
+In my free time, I dive into philosophy, history, biology, physics, cognitive neuroscience, investment, psychology, AI, and computer science. These diverse fields help me see the world from different perspectives and fuel my passion for solving new problems. 🌍🔍
 
-👉 **I thrive on solving unknown problems.** 💡🚀
+👉 **I thrive on tackling unknown challenges.** 🚀
 
 ## Bio
 
-I’ve worked as:
-- 🔧 Hardware Engineer
-- 🖥️ Embedded Engineer (Single-chip Microcontroller Development)
-- 🎯 Product Manager
-- 🐍 Python Backend Engineer
-- 🤖 Machine Learning Engineer
-- 🧠 AI Algorithm Engineer
-- 🔐 Cybersecurity Engineer
+I have worked as:
+- 🔧 **Hardware Engineer**
+- ⚙️ **Embedded Engineer**
+- 🎯 **Product Manager**
+- 🐍 **Python Backend Engineer**
+- 🤖 **AI/Machine Learning Engineer**
+- 🔐 **Cybersecurity Engineer**
 
-Cheers 😊
+## 🔗 **Touch Me**
 
+Feel free to reach out to me via the following:
 
+- 📧 Email: daleewong  AT outlook.com
+- 📝 Blog: [i.hackfor.fun](https://i.hackfor.fun)
+
+Cheers 😊🎉
 
 
 
