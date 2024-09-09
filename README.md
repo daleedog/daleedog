@@ -35,12 +35,14 @@ In my free time, I dive into philosophy, history, biology, physics, cognitive ne
 ## Bio
 
 I have worked as:
-- 🔧 **Hardware Engineer**
-- ⚙️ **Embedded Engineer**
-- 🎯 **Product Manager**
+
+- 🔐 **Blockchain Development Engineer**
 - 🐍 **Python Backend Engineer**
 - 🤖 **AI/Machine Learning Engineer**
 - 🔐 **Cybersecurity Engineer**
+- 🔧 **Hardware Engineer**
+- ⚙️ **Embedded Engineer**
+- 🎯 **Product Manager**
 
 ## 🔗 **Touch Me**
 
