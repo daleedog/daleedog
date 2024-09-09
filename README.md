@@ -22,7 +22,7 @@ A tool for monitoring ERC20 token balances and transactions on the Ethereum netw
 ## My Passion
 
 ### 💡 **I Love Creating**
-Since childhood, I’ve enjoyed DIY projects and pursued a degree in Electronic Information Engineering. My drive is to make life more convenient through innovation. I take on multiple roles in projects—**supply chain procurement, industrial design, software & hardware engineering, product management**—and I’m quick to learn whatever is needed to bring ideas to life. ⚙️✨
+Since childhood, I’ve enjoyed DIY projects and pursued a degree in Electronic Information Engineering. My drive is to make life more convenient through innovation. ⚙️✨
 
 ### 🕵️‍♂️ **Curiosity and Pranks**
 Hacking is a mindset. I constantly wonder: *How does this work? Are there vulnerabilities? Can I harmlessly exploit them for fun?* Pranks are my playful way of exploring and testing systems. 🛠️😄
