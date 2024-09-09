@@ -1,5 +1,16 @@
 # Hi there, I'm daleewong 👋
 
+
+## 🌟 Featured Projects
+### [Pets NFT](https://github.com/daleedog/pets_NFT)
+A blockchain-based platform for creating, trading, and managing NFTs of pets. Built with Solidity, this project allows users to mint unique pet NFTs and trade them on the Ethereum blockchain.
+
+### [Cross-Chain DEX Aggregator](https://github.com/daleedog/Cross-Chain-DEX-Aggregator)
+A decentralized exchange aggregator that enables seamless cross-chain transactions. It optimizes liquidity and price by integrating multiple decentralized exchanges across different blockchains.
+
+### [ERC20 Monitor](https://github.com/daleedog/ERC20_monitor)
+A tool for monitoring ERC20 token balances and transactions on the Ethereum network. This project provides real-time updates and historical data for managing ERC20 tokens effectively.
+
 ## My Passion
 I love creating
 I have liked to do various DIYs since I was a child, and I applied for electronic information engineering major when I grew up.
@@ -34,14 +45,5 @@ Cheers 😊
 ![Hack](https://img.shields.io/badge/-Hack-FF4F81?logo=hack&logoColor=white&style=flat)
 
 
-## 🌟 Featured Projects
-### [Pets NFT](https://github.com/daleedog/pets_NFT)
-A blockchain-based platform for creating, trading, and managing NFTs of pets. Built with Solidity, this project allows users to mint unique pet NFTs and trade them on the Ethereum blockchain.
-
-### [Cross-Chain DEX Aggregator](https://github.com/daleedog/Cross-Chain-DEX-Aggregator)
-A decentralized exchange aggregator that enables seamless cross-chain transactions. It optimizes liquidity and price by integrating multiple decentralized exchanges across different blockchains.
-
-### [ERC20 Monitor](https://github.com/daleedog/ERC20_monitor)
-A tool for monitoring ERC20 token balances and transactions on the Ethereum network. This project provides real-time updates and historical data for managing ERC20 tokens effectively.
 
 
