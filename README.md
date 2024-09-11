@@ -13,7 +13,7 @@
 ### [Pets NFT](https://github.com/daleedog/pets_NFT)
 A blockchain-based platform for creating, trading, and managing NFTs of pets. Built with Solidity, this project allows users to mint unique pet NFTs and trade them on the Ethereum blockchain.
 
-### [Cross-Chain DEX Aggregator](https://github.com/daleedog/Cross-Chain-DEX-Aggregator)
+### [Cross-Chain DEX Aggregator](https://github.com/daleedog/CrossChainDEXAggregator)
 A decentralized exchange aggregator that enables seamless cross-chain transactions. It optimizes liquidity and price by integrating multiple decentralized exchanges across different blockchains.
 
 ### [ERC20 Monitor](https://github.com/daleedog/ERC20_monitor)
