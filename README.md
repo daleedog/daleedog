@@ -10,6 +10,16 @@
 
 
 ## 🌟 Featured Projects
+
+### 🏸 [羽毛球场地抢订工具](https://github.com/daleedog/badmintonbuddy)
+**羽毛球场地抢订工具** 是一款自动化的场地抢订应用，本是抢天通苑体育馆的场地，但是思路可以扩展到其他抢票场景。该工具通过异步请求获取可用场地信息，并在开放预订时自动进行抢订，支持自定义预订时间和场地选择，提高了抢订的成功率。
+
+### 🏢 企业微信自动打卡工具
+**企业微信自动打卡工具** 是一款用于自动化打卡的应用。它利用 ADB 控制手机进行打卡操作，用户只需设置好配置，工具便会在指定时间自动打卡，并将打卡结果以图片形式发送到指定邮箱，极大地减少了手动打卡的麻烦，提高了工作效率。
+
+### 🌐 Clash Auto Switcher
+**Clash Auto Switcher** 是一款用于自动切换 Clash 代理通道的工具。它通过定期检测各个代理的速度，自动选择最快的通道进行切换，确保用户始终连接到最佳的网络资源。该工具简单易用，适合需要频繁切换网络的用户和特殊时期。
+
 ### [Pets NFT](https://github.com/daleedog/pets_NFT)
 A blockchain-based platform for creating, trading, and managing NFTs of pets. Built with Solidity, this project allows users to mint unique pet NFTs and trade them on the Ethereum blockchain.
 
